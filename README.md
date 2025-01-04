@@ -67,6 +67,11 @@
 
 
 ## &#10023; Education Background
+* 11th & 12th . (SCIENCE)
+> * P.O Nahata College Of Art, Commerce & Science, Bhusawal 
+(2018-2020)
+> * 12th Science. Aggrigate: 50.15
+
 
 * B.Tech. (MECHANICAL ENIGINEERING)
 > * Gfs Godavari College Of Engineering, Jalgaon  (2022-2025)
@@ -75,8 +80,8 @@
 ---
 
 * CADD Centre
-> * Post Diploma Tool Design Cad/ Cam
-> * Field Of Study: Computer Aided Design / Manufacturing
+> * Post Diploma Tool Design Cad/Cam
+> * Field Of Study: Computer Aided Design/ Computer Aided Manufacturing
 > * March 2024 – March 2025
 > * Certified in : Micro Small Medium Enterprises
 > * Project : Independent Project Work with Expert Assistance 
@@ -122,7 +127,7 @@
 ---
 
 ## &#10023; Academic Projects
-* **DEGREE MEGA PROJECT TITLE: Design and Fabrication of Experimental Setup for Buckling Test on Column**
+* **DEGREE MEGA PROJECT TITLE: Design and Fabrication of Electric Moped**
 > * SUMMERY: To check the different conditions of buckling under different end condition of specimen as per load. 
 > * Description:
 >   * This Project aim at an investigation of buckling behavior of columns under repetitive compressive loading. Buckling occurs when column has a tendency to deflect laterally, our of the line of action of the force. Once buckling initiates, the instability can lead to failure of the column, because the eccentric force acts as a moment causing greater stresses and deflections due to the combination of the bending and axial forces.
@@ -131,7 +136,7 @@
 >   * Experiments demonstrate how various factors such as test specimen length, material and end support conditions affect the buckling behavior. Additional shear forces can be generated on the test bar by means of a lalteral load mechanism.
 
 ---
-* **DEGREE MINI PROJECT TITLE: Hand Pump with Quick Return Mechanism**
+* **DEGREE MINI PROJECT TITLE: DesignandF fabrication of gearless transmission *
 > * SUMMERY: To reduce the efforts require for pumping the water & drawing more water through hand pump.
 > * Description:
 >   * The main aim of our project was to design a hand pump which is employed with quick return mechanism.
