@@ -1,4 +1,4 @@
-#  Vivek Chavhan 
+#  YOGESH G PATIL
 
 ## &#10023; About Me:
 > <img src="https://user-images.githubusercontent.com/83652490/117559643-a851f280-b0a4-11eb-9813-e3d7b110e041.png" width="200px" align="right">
@@ -62,23 +62,23 @@
 > - Presenting the project
 > - Working with a team
 ---
-* Certificate: [Certificate of Professional in CAD Design](https://www.linkedin.com/in/vivekchavhan/detail/treasury/education:716120376/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACj-Y_YBo3Pa3NjjmEv2vLvuAujowP_6_A8%2C1635453356727)&section=education%3A716120376&treasuryCount=1) 
+* Certificate: [Certificate of Professional in CAD Design](https://www.linkedin.com/in/yogesh-patil-92b48b227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 > (Note: It will open only if you are logged in to Linkedin}
 
 
 ## &#10023; Education Background
 
-* B.E. (MECHANICAL ENIGINEERING)
-> * Yeshwantrao Chavan College Of Engineering, Nagpur  (2014-2018)
-> * B.E. Aggrigate: 8.72 (79.7%)
+* B.Tech. (MECHANICAL ENIGINEERING)
+> * Gfs Godavari College Of Engineering, Jalgaon  (2022-2025)
+> * B.Tech . Aggrigate: Persuing
 
 ---
 
 * CADD Centre
-> * Professional in Product Design
-> * Field Of Study: Computer Aided Design
-> * 2016 – 2017
-> * Certified in : Professional in Product Design 
+> * Post Diploma Tool Design Cad/ Cam
+> * Field Of Study: Computer Aided Design / Manufacturing
+> * March 2024 – March 2025
+> * Certified in : Micro Small Medium Enterprises
 > * Project : Independent Project Work with Expert Assistance 
 > *  Concept/Software Learned : CATIA V5 | GD&T | AutoCAD 2D | Creo 2.0
 
@@ -146,14 +146,14 @@
 
 ---
 
-## &#10023; Contact:
+## &#10023; Contact: 7219651060
 
-> * **Mail me:** vivek.chavhan8003@gmail.com
-> * **LinkedIn:** www.linkedin.com/in/vivekchavhan
+> * **Mail me:** yogeshgpatil100@gmail.com
+> * **LinkedIn:** www.linkedin.com/in/yogeshpatil
 > * **Freelancer:** -
 > * **Portfolio Website:** vivek-chavhan.github.io
  ---
 ## &#10023; Hire Me:
-> ![Vivek Header](https://user-images.githubusercontent.com/83652490/117562356-0211e700-b0bc-11eb-9cba-e56b4dea9a80.png)
+> ![Yogesh Header](https://www.linkedin.com/in/yogesh-patil-92b48b227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 > P.S. I hereby declare that all the stated information is true and correct to the best of my knowledge and belief. 
